@@ -1,3 +1,4 @@
-# My Awesome Book
+# QGIS 초급자용 교재
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+이 문서는 OSGeo 한국어지부에서 만든 QGIS 초급자를 위한 교재입니다. 
+
